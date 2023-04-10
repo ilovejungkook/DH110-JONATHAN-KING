@@ -2,9 +2,9 @@
 
 ## Jonathan King
 
-### project title
+### Connecting with Family through Shared Hobbies 
 
-#### project description
+#### One common
 
 ##### assignment 1
 
