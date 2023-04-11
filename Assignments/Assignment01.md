@@ -32,4 +32,5 @@ Overall, BeReal is a simple social media app that attracts users through its uni
 
 | Heuristic | Bleacher Report | Rating for Bleacher Report | BeReal | Rating for BeReal |
 | --- | --- | --- | --- | --- |
+| Visibility of system status | The app is navigable and users can tell where they are on the app, as well as if the app is functioning | 0 | Generally, users can tell when the app is functioning. Sometimes there are errors in which users get a notification that a friend has posted, but it takes a while before the post shows up. | 2 |
 
