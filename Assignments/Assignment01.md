@@ -14,6 +14,8 @@ In this assignment, we will take a look at two web apps that are similar to LeBo
 
 ### App 1: [Chat Avenue](https://www.chat-avenue.com/)
 
+![the Chat Avenue Interface](https://consumersiteimages.trustpilot.net/business-units/5e3767086b3ae6000119506e-198x149-1x.jpg)
+
 scree shot, url, brief summary, overall eval
 
 | Heuristic | 
