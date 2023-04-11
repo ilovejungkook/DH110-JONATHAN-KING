@@ -12,10 +12,13 @@ To address this challenge in connecting families, I hope to design an app called
 
 In this assignment, we will take a look at two web apps that are similar to LeBond and see how well they adhere to the 10 Usability Heuristics for User Interface Design. We will also provide Severity Ratings for Usability Problems with respect to the target audience of the apps. 
 
-### App 1: 
+### App 1: [Chat Avenue](https://www.chat-avenue.com/)
 
 scree shot, url, brief summary, overall eval
 
+| Heuristic | 
 
 
-### App 2: 
+
+### App 2: [BeReal](https://bere.al/en)
+
