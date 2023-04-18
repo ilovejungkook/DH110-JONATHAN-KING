@@ -10,7 +10,7 @@ The purpose of Usability Testing is to see how a website or app measures up in r
 
 The link to the usability test survey I used is [here.](https://forms.gle/GP5sNzRkwfFQapbt7) The link to the recording of the usability test I conducted is [here.](https://drive.google.com/file/d/1aMoxR5wc6U6xLa1lnhRqlFUwTs2BMazK/view?usp=sharing)
 
-[Reflect](https://is3-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ff/3b/92/ff3b92c2-62d0-8619-a98b-3f28395c807c/d21e20db-b300-425f-b524-f390afffcf05_EnsparkleScr_67_01.png/300x0w.jpg)
+![Reflect](https://is3-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ff/3b/92/ff3b92c2-62d0-8619-a98b-3f28395c807c/d21e20db-b300-425f-b524-f390afffcf05_EnsparkleScr_67_01.png/300x0w.jpg)
 
 ### Conclusion
 
