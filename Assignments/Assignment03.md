@@ -16,5 +16,21 @@ To gather research for the app, I plan on actively having a conversation/intervi
 
 For the research, I plan on conducting a virtual interview/conversation with either a friend or family member. I will have a list of questions prepared and will discuss the questions with the participant. It will be participatory involvement, and I plan on collecting data by taking notes on the discussion and maybe recording it if the participant is comfortable.
 
+General Questions
+- What are some things/people/events that you are grateful for?
+- How often do you think about what you are grateful for?
+- How often do you express to someone that you are grateful to them?
+- How often do you talk with your family? What do you usually talk to them about? 
+
+More in depth questions
+- Are you satisfied with how frequent you practice gratitude? 
+- How do you express appreciation for someone? 
+- How do you think expressing gratitude affects your life?
+- If you have a family, what are somethings you are grateful for about them? Do they know you are grateful to them about these things?
+
+
 ## The Research
 
+Linked are the research notes and recording
+
+## Reflection
