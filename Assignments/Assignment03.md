@@ -17,3 +17,4 @@ To gather research for the app, I plan on actively having a conversation/intervi
 For the research, I plan on conducting a virtual interview/conversation with either a friend or family member. I will have a list of questions prepared and will discuss the questions with the participant. It will be participatory involvement, and I plan on collecting data by taking notes on the discussion and maybe recording it if the participant is comfortable.
 
 ## The Research
+
