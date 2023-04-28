@@ -31,8 +31,10 @@ More in depth questions
 
 ## The Research
 
-Linked are the [research notes](https://docs.google.com/document/d/1A1X3T9dg3c-TBvLBiVemrqCE5m0iN_fpF3aXGS63eYs/edit?usp=sharing) and [recording](https://drive.google.com/file/d/1HqTD272zoKrAxicy-qvTR_BEjWhalGl3/view?usp=sharing)
+Linked are the [research notes](https://docs.google.com/document/d/1A1X3T9dg3c-TBvLBiVemrqCE5m0iN_fpF3aXGS63eYs/edit?usp=sharing), [transcript](https://docs.google.com/document/d/1Mz0NBIBFSyhcGsjloS6lU1Nz5ygNd48Tls9l9hS-ub0/edit?usp=sharing) and [recording](https://drive.google.com/file/d/1HqTD272zoKrAxicy-qvTR_BEjWhalGl3/view?usp=sharing)
 
 ## Reflection
 
 Overall, I think the user research went well and definitely provided valuable insight for my app. I learned that there is a niche for the app I want to develop, since the people interviewed expressed that they don't always express gratitude as much as they would want, especially to family, or they may feel awkward or uncertain about how or when to express gratitude. The app I want to make can help address those pain points and make expressing gratitude something that is more frequent and normal. Additionally, the people interviewed mentioned that they mainly talk with family members about ongoing events in life. The app I want can support that by encouraging family members to talk about things they are grateful for in everyday life. Lastly, I learned from the interview about different ways people can express gratitude; besides words, gratitude can also be expressed through physical touch, spending time together, giving gifts, and doing things for someone. All in all, I am excited to implement what I learned from the user research into the final app.
+
+In retrospect, another thing I learned was that in conducting user interviews in the future, it is important to explain keywords used throughout the study. For example, this user interview could have been improved significantly if I had a definition for "gratitude" from the beginning. 
