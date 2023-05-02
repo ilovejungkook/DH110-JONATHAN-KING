@@ -21,3 +21,4 @@ Assignments/tyler_persona.jpg
 ### Persona 2:
 
 ## User Scenarios & Journey Maps
+![tyler_persona](https://user-images.githubusercontent.com/87508730/235647826-61dc685e-94a6-4d8d-a3f5-75aaabd3ed1e.jpg)
