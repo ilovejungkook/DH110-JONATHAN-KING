@@ -26,7 +26,7 @@ For this assignment, I will try to do is to develop two user personas with empat
 
 ## User Scenarios & Journey Maps
 
-Tyler's scenario: Share with a family member that he is grateful for them
+### Tyler's scenario: Share with a family member that he is grateful for them
 
 On campus, Tyler is walking to class when he sees a family exploring the campus with their young children. Seeing this, Tyler is reminded of the times back when his parents took him to explore fun new places like parks, the aquarium, and the forest nearby his house. Tyler feels grateful to his family and wants to express it to them, but he is scared that it will come off as too out of the blue or out of character. Frustrated, Tyler ponders over what to do about this: he really wishes he can tell his family how he feels but it's been so long since he expressed gratitude to them that he becomes unsure of how they will take it.
 
@@ -35,7 +35,7 @@ Frustration: Tyler is unsure of how his parents will think if he randomly texts 
 Solution: Tyler downloads the app I am trying to develop for the project. The app is designed for family members to add each other and randomly prompts users to share one thing they are grateful for at a random time everyday. Tyler convinces his whole family to get on the app, and he uses the app to share with his family about how he is grateful for them.
 Resolution: Tyler and his family bond further with each other after validating one another with gratitude and affirmations. 
 
-Vera's scenario: Share a core memory with a family member
+### Vera's scenario: Share a core memory with a family member
 
 While out on a walk in the park one day, Vera recalls the moment where she found out she was pregnant with her first child. It was 32 years ago when the pregnancy result tests came in while she was walking the dog at the park. Vera quickly thinks about her youngest daughter, who recently became pregnant for the first time. Vera wishes to share with her youngest daughter about her experience, but doesn't know if it would be too abrupt to text or call her on the spot to tell her. 
 
