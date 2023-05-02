@@ -14,8 +14,8 @@ For this assignment, I will try to do is to develop two user personas with empat
 
 ### Persona 1:
 
-<img src=”tyler_persona.jpg”>
-![national public radio homepage](tyler_persona.jpg)
+<img src=”./tyler_persona.jpg”>
+![national public radio homepage](./tyler_persona.jpg)
 
 Assignments/tyler_persona.jpg
 ### Persona 2:
