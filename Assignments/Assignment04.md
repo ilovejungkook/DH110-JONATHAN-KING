@@ -12,13 +12,16 @@ For this assignment, I will try to do is to develop two user personas with empat
 
 ## Personas & Empathy Maps
 
-### Persona 1:
+### Persona 1: Tyler Harlow
 
-<img src=”./tyler_persona.jpg”>
-![national public radio homepage](./tyler_persona.jpg)
+![tyler_persona](https://user-images.githubusercontent.com/87508730/235647826-61dc685e-94a6-4d8d-a3f5-75aaabd3ed1e.jpg)
 
-Assignments/tyler_persona.jpg
-### Persona 2:
+![Untitled presentation](https://user-images.githubusercontent.com/87508730/235649678-0a7bdc0f-1ee1-44d3-a05e-754d2577e6e3.png)
+
+### Persona 2: 
+
+![Untitled presentation (1)](https://user-images.githubusercontent.com/87508730/235651083-a7a9b1dd-7ed5-4fb3-a265-617b89f3f668.png)
+
+![Untitled presentation (2)](https://user-images.githubusercontent.com/87508730/235653466-765850f2-104c-44dd-a415-f141d5e4f75c.png)
 
 ## User Scenarios & Journey Maps
-![tyler_persona](https://user-images.githubusercontent.com/87508730/235647826-61dc685e-94a6-4d8d-a3f5-75aaabd3ed1e.jpg)
