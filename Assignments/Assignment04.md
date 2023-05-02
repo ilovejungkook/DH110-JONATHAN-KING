@@ -14,6 +14,8 @@ For this assignment, I will try to do is to develop two user personas with empat
 
 ### Persona 1:
 
+<img src=”./tyler_pesona.jpg”>
+
 ### Persona 2:
 
 ## User Scenarios & Journey Maps
