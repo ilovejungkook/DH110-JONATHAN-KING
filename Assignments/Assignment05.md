@@ -26,6 +26,12 @@ DH 110
 ### Wireflow
 ![DH_110_Assignment_5 Wireflow](https://user-images.githubusercontent.com/87508730/237002441-14eebd55-f246-422c-8722-5a750a456923.jpg)
 
+The orange lines illustrate task 1 of expressing gratitude through posts. In the first screen, users are prompted to share their thoughts of gratitude for the day. After writing down their thoughts in screen 2, they share what they wrote in screen 3 and can scroll through to see what family members were thankful for. 
+
+The green lines illustrate task 2 of answering additional gratitude prompts. This task starts in screen 3, where users can click on the button to "share more." From there, users are directed to screen 5 and have two options - choosing to answer a prompt or choosing to free write what they are additionally thankful for. If the former option is chosen, the user is directed to screen 6 and can scroll through a selection of prompts or search for keywords that lead to prompts that they want to express gratitude about. After a prompt is selected, or if the user chooses to free-write, the user is directed to screen 2 again to answer the prompt or free-write about it. After the written part, the user once again arrives at screen 3.
+
+The yellow lines illustrate task 3 of commenting on family members' posts. This starts with the "comment" button option in screen 3. If users click on it, they will be directed to a full screen of the post they want to reply to in screen 4 and can type a comment. Users click "add comment" to send the comment or "back" if they end up deciding not to leave a comment. Both buttons will redirect back to screen 3.
+
 ## Wireflow Testing
 
 ## Reflection
