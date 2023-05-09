@@ -15,9 +15,16 @@ DH 110
 
 1. The first and most key feature/task for this app is the button to express gratitude - each day when users open the app, they will be prompted to answer the question "what are you thankful for today?" After answering the question, users will be allowed to see what other users on the app that they are connected to (i.e. family members) have shared. The app's straightforward design and purpose allows users of various technological backgrounds to use it. 
 2. The second task adds on to the first task and allows users to answer additional prompts. After sharing what they are thankful for for the day, users can browse a library of gratitude prompts and choose to answer questions like "what is one childhood memory that you are grateful for?" and "who is someone you are grateful to today?" Alternatively, users can also choose to share an additional answer to "what are you thankful for today?" A subfeature of this, which will not be shown in the wireframe at this time, is a roulette feature in which users can choose to answer a prompt randomly selected by the app. The purpose of this is to provide a workaround for people who may feel awkward in deliberately expressing gratitude to loved ones.
-4. The third task is just an idea at this time and will not be implemented into the wireframes and wireflows. Nevertheless, the third task's purpose is to encourage users to stay on the app. This is achieved through an in-game shop that users can access. The in-game shop partners with global companies in bringing rewards that users can obtain through in-game currency that is gained by expressing gratitude. Redeemable rewards include family vacations, restaurant gift cards, and amusement park tickets. Rewards are designed to encourage family bonding, and family members can combine their points together to redeem the rewards.
+3. The third task is being able to add comments on family member's gratitude posts.
+4. The fourth task is just an idea at this time and will not be implemented into the wireframes and wireflows. Nevertheless, this task's purpose is to encourage users to stay on the app. This is achieved through an in-game shop that users can access. The in-game shop partners with global companies in bringing rewards that users can obtain through in-game currency that is gained by expressing gratitude. Redeemable rewards include family vacations, restaurant gift cards, and amusement park tickets. Rewards are designed to encourage family bonding, and family members can combine their points together to redeem the rewards.
 
 ## Wireframes and Wireflows
+
+### Wireframe
+![DH 110 Assignment 5 Wireframe](https://user-images.githubusercontent.com/87508730/236999020-8186b3d5-4cec-4f51-99f1-8c4ade639076.jpg)
+
+### Wireflow
+![DH_110_Assignment_5 Wireflow](https://user-images.githubusercontent.com/87508730/237002441-14eebd55-f246-422c-8722-5a750a456923.jpg)
 
 ## Wireflow Testing
 
