@@ -8,7 +8,7 @@ My project is an app called "thanksgiving" and it is designed to allow family me
 
 ## Relevant links
 
-Link to the interface design page that shows test screens and design system information
+[Link to the interface design page that shows test screens and design system information](https://www.figma.com/file/wzNVFFP1eaKGICH2q2UJMT/DH-110-Assignment-6---Jonathan-King?type=design&node-id=0%3A1&t=OSqTHXDV5cKmU7A3-1)
 
 ## The wireframe we will be testing
 
