@@ -12,11 +12,19 @@ Link to the interface design page that shows test screens and design system info
 
 ## The wireframe we will be testing
 
+![image](https://github.com/ilovejungkook/DH110-JONATHAN-KING/assets/87508730/73a95a5a-1952-4705-8d0a-acd5421ca7b7)
+
 ## Typographic variation
+
+![image](https://github.com/ilovejungkook/DH110-JONATHAN-KING/assets/87508730/7b1cbff1-8a34-452e-9899-c3eb8643804f)
 
 ## Shape variation
 
+![image](https://github.com/ilovejungkook/DH110-JONATHAN-KING/assets/87508730/b832769e-1d12-496d-a552-392fd9c56d31)
+
 ## Color variation
+
+![image](https://github.com/ilovejungkook/DH110-JONATHAN-KING/assets/87508730/40ae57d6-2793-4008-8c8b-e615d5562e78)
 
 ## Impression test
 
