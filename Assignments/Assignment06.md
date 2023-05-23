@@ -50,3 +50,16 @@ Using webaim.org's color-contrast check, the design passes. The reason why I did
 
 ![image](https://github.com/ilovejungkook/DH110-JONATHAN-KING/assets/87508730/2137d4a9-e28e-4158-988e-7c737d3b9e0c)
 
+## Design system
+
+In the end, here is a summary of the design system I will be using for the app's design. I made the decisions for the graphical interface design through comments from the impression test, my own preferences through experimenting on Figma, and inspiration from class. 
+
+Typeface family: Inter
+Typeface size: 32, 20 depending on purpose
+Color scheme: 
+  Background - light blue (#DAEAF9)
+  Primary/default text - black (#000000)
+  Focus/button - white (#FFFFFF)
+Layout grid + spacing: default
+
+
