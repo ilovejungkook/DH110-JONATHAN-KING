@@ -7,7 +7,7 @@ Jonathan King | DH 110 | Spring 2023
 My project is an app called "thanksgiving" and it is designed to allow family members to have an easier time sharing about the things they are grateful for in everyday life, as well as how they are grateful for each other. In essence, "thanksgiving" is an app that encourages the practice of giving gratitude. The purpose of the interface design assignment is to better understand what typography, shapes, and colors are the most user-friendly with the ultimate intention of creating an app that will allow users to comfortably and easily express gratitude on the app.
 
 ## Relevant links
-Link to digitized wireflow
+
 Link to the interface design page that shows test screens and design system information
 
 ## The wireframe we will be testing
@@ -28,7 +28,25 @@ Link to the interface design page that shows test screens and design system info
 
 ## Impression test
 
+I conducted the impression test with classmate Nathan Koketsu. He gave an overall first impression of the wireframe, as well as thoughts on the the variations of typography, shape, and color. I showed him the different screens in a short timeframe of less than 10 seconds. His responses were as follows:
+
+For the overall impression, Nathan said that the the screen had a "calming interface." It seemed "pretty intuitive on what to do since everything is toward the bottom" and it "seemed like a display page before going into the main app." The "vibe matches a reflection, relaxation type app." 
+
+For the typography, Nathan's comments were as follows. "The first one seemed to have a good contrast between the bolder text and non-bold. The second one was harder to read, especially the button. Third one didn't really fit the app [and] seemed a little more generic."
+
+For the shapes, Nathan liked the third screen, as it "suits the bottom button pretty well. First one feels a bit too harsh. Second is better but it feels like it should go further with the rounding. The third feels like it reaches a good level."
+
+For the colors, Nathan said, "They feel a bit saturated, especially the one on the right. It may be good to darken the right one and change the Good Evening text to a lighter color. The one on the left is better but maybe slightly less saturation could be good too so that it doesn't feel too harsh for the user."
+
 ## Final graphical interface design
 
-## Accessibility (color-contrast at least) check
+For the final graphical interface design, I decided to implement Nathan's suggestions and keep the original typography, making the shapes more round, and toning down the saturation of the blue color. The result is as follows:
+
+![image](https://github.com/ilovejungkook/DH110-JONATHAN-KING/assets/87508730/d9364375-7f8a-4e76-a94b-cd3c439f2982)
+
+## Color-contrast check
+
+Using webaim.org's color-contrast check, the design passes. The reason why I didn't use Stark is because it is not free.
+
+![image](https://github.com/ilovejungkook/DH110-JONATHAN-KING/assets/87508730/2137d4a9-e28e-4158-988e-7c737d3b9e0c)
 
