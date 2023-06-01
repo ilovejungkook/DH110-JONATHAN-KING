@@ -27,6 +27,16 @@ Summary statement and link to or an embedded prototype
 ### Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
+<img src="tyler_persona.jpg" height="300px")>
+![tyler the user of the app](tyler_persona.jpg)
+
 ### Pitch video 
+
+<!-- blank line-->
+<figure class="video_container">
+  <iframe src="https://youtu.be/s4mXxflAjps" frameborder="0"
+          allowfullscreen="true"></iframe>
+  </figure>
+<!-- blank line-->
 
 ### Conclusion: what did you learn throughout the process?
