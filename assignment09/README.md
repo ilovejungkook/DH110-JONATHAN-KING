@@ -39,4 +39,6 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
   </figure>
 <!-- blank line-->
 
+[![nuggets game](http://img.youtube.com/vi/s4mXxflAjps&ab/0.jpg)](https://www.youtube.com/watch?v=s4mXxflAjps&ab_channel=NBA "nba")
+
 ### Conclusion: what did you learn throughout the process?
