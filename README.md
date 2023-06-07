@@ -39,14 +39,7 @@ Finally, it was time to design a high-fidelity prototype for Halo. It was mainly
 
 ### Pitch video 
 
-<!-- blank line-->
-<figure class="video_container">
-  <iframe src="https://youtu.be/s4mXxflAjps" frameborder="0"
-          allowfullscreen="true"></iframe>
-  </figure>
-<!-- blank line-->
-
-[![nuggets game](http://img.youtube.com/vi/s4mXxflAjps&ab/0.jpg)](https://www.youtube.com/watch?v=s4mXxflAjps&ab_channel=NBA "nba")
+[pitch video](https://youtu.be/EzwdIgIvi9E)
 
 ### Conclusion: 
 
