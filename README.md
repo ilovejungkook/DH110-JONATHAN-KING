@@ -9,28 +9,26 @@ Halo is a mobile app designed to encourage families (and friends) to practice gr
 
 In a world where people are always moving around whether for work, school, or personal reasons, it can be hard for families to stay connected. This especially goes for extended families, where it can be hard to keep in touch with everyone, especially with the children growing up so fast. On a similar note, mental health is very important, and it is something that families may not feel comfortable talking about depending on how close they are. With these two things in mind, Halo is an app that aims to address the two problems by encouraging families to practice gratitude together, which will allow them to stay connected on what's happening in each others' lives while improving everyone's mental health.
 
-### Competitor analysis [assignment01 & 02]: 
+### Competitor analysis
 
-Halo is a unique app that combines the qualities of a social media app with that of a mindfulness / mental health app. Through my research, I found that there were no direct competitors. Thus, I decided to evaluate a social media app, BeReal, since it's social features are similar to what I hope to design for Halo. Similar to BeReal, I aim to design Halo to spontaneously prompt users to express gratitude at a random time everyday, and users can see, react, and comment on how family members and friends express gratitude. The other app I evaluated was Reflect, a daily journaling app that encourages users to reflect on their life through processing thoughts and emotions, leading to improved mental health. Similar to Reflect, I hope that Halo can be an app that improves users' mental health through reflection on what they are grateful for.
+Halo is a unique app that combines the qualities of a social media app with that of a mindfulness / mental health app. Through my research, I found that there were no direct competitors. Thus, I decided to evaluate a social media app, [BeReal](https://bereal.com/en/), since it's social features are similar to what I hope to design for Halo. Similar to BeReal, I aim to design Halo to spontaneously prompt users to express gratitude at a random time everyday, and users can see, react, and comment on how family members and friends express gratitude. The other app I evaluated was [Reflect](https://apps.apple.com/us/app/reflect-guided-daily-journal/id1443541171), a daily journaling app that encourages users to reflect on their life through processing thoughts and emotions, leading to improved mental health. Similar to Reflect, I hope that Halo can be an app that improves users' mental health through reflection on what they are grateful for.
 
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+To go about analyzing the competitor apps, I conducted [heuristic evaluation](https://github.com/ilovejungkook/DH110-JONATHAN-KING/blob/main/Assignments/Assignment01.md) and [usability testing](https://github.com/ilovejungkook/DH110-JONATHAN-KING/blob/main/Assignments/Assignment02.md). Please note that throughout the early stage of the design process, I pivoted my design idea from being a broad idea of connecting families through similar interests to a more specific idea of connecting families through practicing gratitude.
 
-### User research [contextual inquiry, assignment04]: 
-Summary and link to your assignment folder
+### User research
 
-### UX storytelling [persona+scenario, assignment05] 
-Summary and link to your assignment folder
+The next step of the design process was conducting user research. At this point, I decided to commit to designing an app for practicing gratitude. In order to go about conducting user research, I decided what the target users were for the app: family members who speak English and are active on social media apps. After deciding the target users, I prepared some general and specific questions about family and gratitude to ask students of different backgrounds and different proximity to their family. To read more about my user research, please click [here](https://github.com/ilovejungkook/DH110-JONATHAN-KING/blob/main/Assignments/Assignment03.md).
 
-### Wireframe and graphic design element variation [assignment06 + part of 07]
+### UX storytelling 
 
-### Low-fidelity prototype (wireflow, assignment06) 
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+After gathering user research, it was important to focus on UX storytelling and really honing in on what the user personas were from the target users, as well as understanding their behaviors and actions. To do this, I developed two personas, Austin and Vera. Austin is a young college student who moved away for school and wants to stay in contact with family members, who are now further away. Vera is a grandmother who wants to be as involved in her grandchildren and childrens' lives as possible. To read more, about Austin and Vera, please click [here](https://github.com/ilovejungkook/DH110-JONATHAN-KING/blob/main/Assignments/Assignment04.md).
+
+### Low-fidelity prototype 
+
+Next, 
 
 ### High-fidelity prototype (functional/interactive prototype, assignment08) 
 Summary statement and link to or an embedded prototype
-
-### Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 <img src="tyler_persona.jpg" height="300px")>
 ![tyler the user of the app](tyler_persona.jpg)
@@ -48,15 +46,3 @@ Including cognitive walkthrough; impression test, accessibility audit, usability
 
 ### Conclusion: what did you learn throughout the process?
 
-
-# below is old stuff pls ignore
-
-# Digital Humanities 110: User Interface and Design
-
-## LeBond: Connecting with Family through Shared Hobbies 
-
-### by Jonathan King
-
-Almost every family has something they like to bond over - some families love watching sports together, some families love to cook together, and some families love to watch TV shows together. However, as families get larger through the generations and children grow up and move to different places throughout the world, the distance keeps families from being able to bond over shared hobbies and activities as frequently. LeBond is a new app that seeks to address this by providing a digital app in which family members can still bond over their family hobbies. LeBond offers features such as post threads in which families can live chat or live react to events like sports games, short video feeds in which family members can share clips of them doing activities like cooking and hiking, tournament brackets in which families can organize tournaments for online activities like chess, and a "flex board" where family members can show off and celebrate the most proud accomplishments of their life (for example birthing a kid). 
-
-![people from ucla website](https://www.ucla.edu/img-feed-cache/BaliWater2520975x650.jpg)
