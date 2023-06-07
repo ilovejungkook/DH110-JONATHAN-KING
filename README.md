@@ -25,13 +25,17 @@ After gathering user research, it was important to focus on UX storytelling and 
 
 ### Low-fidelity prototype 
 
-Next, 
+After gathering all the information I needed and thinking through how to best design the app to appeal to users, it was finally time to start designing the app. I started with a low-fidelity prototype, which was a simply a sketch on my notes app of what I envisioned the app to look like. To see more of the low-fidelity prototype, please click [here](https://github.com/ilovejungkook/DH110-JONATHAN-KING/blob/main/Assignments/Assignment05.md).
 
-### High-fidelity prototype (functional/interactive prototype, assignment08) 
-Summary statement and link to or an embedded prototype
+![image](https://github.com/ilovejungkook/DH110-JONATHAN-KING/assets/87508730/aaec5fad-537d-4eee-999f-07a999fa51e4)
 
-<img src="tyler_persona.jpg" height="300px")>
-![tyler the user of the app](tyler_persona.jpg)
+### Interface design
+
+Before designing the high-fidelity prototype, it was important to test design variations in colors, typography, and shape in order to get a sense of what design system would work best. [Here](https://github.com/ilovejungkook/DH110-JONATHAN-KING/blob/main/Assignments/Assignment06.md) is a summary of my findings. In addition, [here](https://www.figma.com/file/v5861YReyh9hdv9Y0mVrmK/halo-wireframe-%2F-wireflow?type=design&node-id=11-183&t=rLLhQrdV3kvY2aDx-0) is the design system with fonts and colors that I decided to proceed with.
+
+### High-fidelity prototype
+
+Finally, it was time to design a high-fidelity prototype for Halo. It was mainly a process of translating the low-fidelity sketch to Figma, while keeping in mind the feedback I received form the professor and classmates. Here are my [high-fidelity prototype](https://www.figma.com/proto/v5861YReyh9hdv9Y0mVrmK/halo-wireframe-%2F-wireflow?type=design&node-id=31-980&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=31%3A980) and the [final wireframes](https://www.figma.com/file/v5861YReyh9hdv9Y0mVrmK/halo-wireframe-%2F-wireflow?type=design&node-id=34-1115&t=rLLhQrdV3kvY2aDx-0).
 
 ### Pitch video 
 
@@ -44,5 +48,11 @@ Summary statement and link to or an embedded prototype
 
 [![nuggets game](http://img.youtube.com/vi/s4mXxflAjps&ab/0.jpg)](https://www.youtube.com/watch?v=s4mXxflAjps&ab_channel=NBA "nba")
 
-### Conclusion: what did you learn throughout the process?
+### Conclusion: 
+
+Throughout the process of designing Halo, the most important lesson I learned is that the key to successful design is empathy and really understanding the users of the app. Through the various steps of the design process, there was always an emphasis on empathy, whether it was through user surveys, creating personas, or asking for feedback from peers. This is something I will keep in mind when designing anything in the future.
+
+Additionally, I found it valuable to have the opportunity to learn Figma. I've always wanted to learn more about the app and about design, since it seems very fun. I'm thankful to have had the opportunity to learn Figma and for all the knowledge about UI / UX design. The course was valuable to me and gave me a great introduction into the field of UI / UX. 
+
+
 
