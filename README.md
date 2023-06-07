@@ -35,7 +35,7 @@ Before designing the high-fidelity prototype, it was important to test design va
 
 ### High-fidelity prototype
 
-Finally, it was time to design a high-fidelity prototype for Halo. It was mainly a process of translating the low-fidelity sketch to Figma, while keeping in mind the feedback I received form the professor and classmates. Here are my [high-fidelity prototype](https://www.figma.com/proto/v5861YReyh9hdv9Y0mVrmK/halo-wireframe-%2F-wireflow?type=design&node-id=31-980&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=31%3A980) and the [final wireframes](https://www.figma.com/file/v5861YReyh9hdv9Y0mVrmK/halo-wireframe-%2F-wireflow?type=design&node-id=34-1115&t=rLLhQrdV3kvY2aDx-0).
+Finally, it was time to design a high-fidelity prototype for Halo. It was mainly a process of translating the low-fidelity sketch to Figma, while keeping in mind the feedback I received form the professor and classmates. Here are my [high-fidelity prototype](https://www.figma.com/proto/v5861YReyh9hdv9Y0mVrmK/halo-wireframe-%2F-wireflow?type=design&node-id=31-980&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=31%3A980) and the [final wireframes](https://www.figma.com/file/v5861YReyh9hdv9Y0mVrmK/halo-wireframe-%2F-wireflow?type=design&node-id=34-1115&t=rLLhQrdV3kvY2aDx-0). Additionally, here is the [assignment documentation](https://github.com/ilovejungkook/DH110-JONATHAN-KING/blob/main/Assignments/Assignment07.md).
 
 ### Pitch video 
 
