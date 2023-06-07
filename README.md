@@ -1,13 +1,18 @@
-# Halo 
-## Jonathan King
+# Halo: an app for practicing gratitude together with family and friends
+## Jonathan King | DH 110 | Spring 2023
 
-### Introduction: a brief information about the project. 
-What is the project about? The motivation of the project and possible contribution.
+### Introduction
 
-### Clear design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
+Halo is a mobile app designed to encourage families (and friends) to practice gratitude in their everyday lives. Practicing gratitude is expressing what one is thankful for and counting one's blessings. Practicing gratitude together enables family members to lead happier lifestyles and keep in touch on what has been going on in each others' lives. Halo incentivizes users to practice gratitude daily through its app design and in-game store.
+
+### Design statement
+
+In a world where people are always moving around whether for work, school, or personal reasons, it can be hard for families to stay connected. This especially goes for extended families, where it can be hard to keep in touch with everyone, especially with the children growing up so fast. On a similar note, mental health is very important, and it is something that families may not feel comfortable talking about depending on how close they are. With these two things in mind, Halo is an app that aims to address the two problems by encouraging families to practice gratitude together, which will allow them to stay connected on what's happening in each others' lives while improving everyone's mental health.
 
 ### Competitor analysis [assignment01 & 02]: 
+
+Halo is a unique app that combines the qualities of a social media app with that of a mindfulness / mental health app. Through my research, I found that there were no direct competitors. Thus, I decided to evaluate a social media app, BeReal, since it's social features are similar to what I hope to design for Halo. Similar to BeReal, I aim to design Halo to spontaneously prompt users to express gratitude at a random time everyday, and users can see, react, and comment on how family members and friends express gratitude. The other app I evaluated was Reflect, a daily journaling app that encourages users to reflect on their life through processing thoughts and emotions, leading to improved mental health. Similar to Reflect, I hope that Halo can be an app that improves users' mental health through reflection on what they are grateful for.
+
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 
 ### User research [contextual inquiry, assignment04]: 
